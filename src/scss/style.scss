@@ -3,11 +3,11 @@
 }
 
 .burger {
-    height: 570px;
+    background-color: #0946c8;
 }
 
 .sister {
-    
+    margin-top: 600px;
     text-align: center;
     color: white;
     font-size: 150px;
@@ -17,7 +17,7 @@
 .brother {
     text-align: center;
     color: white;
-    font-size: 30px;
+    font-size: 20px;
    
 }
 
@@ -39,7 +39,7 @@
     border-radius: 15px;
     border: solid 2px;
     text-align: left;
-    height: 30px;
+    height: 20px;
     width: 100px;
     color:#f26002;
     margin-left: 80px;
@@ -47,13 +47,34 @@
 
 }
 
+.box1 {
+    margin-left: 5%;
+}
+
+.box2 {
+margin-left: 15%;
+}
+
+.box3 {
+    margin-left: 20%;
+}
 .reasons {
-    font-family: RobotoSlab;
+
     font-size: 24px;
     text-align: center;
 }
 
 .ice {
+    background-color:rgb(244, 248, 255); 
+}
+
+.text {
+    display: flex;
+    margin-left: 30px;
+    line-height: 50px;
+}
+
+.button {
     background-color:rgb(244, 248, 255); 
 }
 
@@ -65,8 +86,7 @@
     height: 40px;
     width: 20%;
     font-size: 25px;
-    
-    
+    margin-left: 40%;
 }
 
 .social {
