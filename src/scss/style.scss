@@ -14,22 +14,24 @@
 color: white;
 font-size: 30px;
 text-align: center;
-margin-top: 80%;
-font-family: "Roboto Slab", serif;
+ font-family: "Roboto Slab", serif;
 
 }
 
-.paragraph {
+.sister {
+    margin-top: -320px;
+}
+
+.brother {
     text-align: center;
     color: white;
     font-size: 16px;
-    font-family: "Roboto", sans-serif;
-    margin-bottom: 10%;  
-
+    font-family: "Roboto", sans-serif; 
+    margin-top: -10px;
 }
-   
+
 .blue {
-    margin-top: 50px;
+    margin-top: 200px;
     color:#8ccbea;
     margin-left: 20px;
     font-family: "Roboto", sans-serif;
@@ -37,6 +39,7 @@ font-family: "Roboto Slab", serif;
 }
 
 .window {
+    margin-bottom: 20px;
     margin-left: 20px;
     font-family: "Roboto Slab", serif;  
 }
@@ -58,6 +61,8 @@ font-family: "Roboto Slab", serif;
     text-align: center;
     font-size: 28px;
     font-family: "Roboto", sans-serif;
+    margin-top: 50px;
+    margin-bottom: 60px;
  }
 
  .ice {
@@ -150,4 +155,12 @@ font-family: "Roboto Slab", serif;
     text-align: center;
     font-size: 14px;
     font-family: "Roboto", sans-serif;
+}
+
+/* version tablet y desktop */
+
+@media (width > 1024) {
+    .social {
+        color: #f26002;
+    }
 }
