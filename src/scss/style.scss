@@ -2,45 +2,48 @@
     background-image: url(../images/cover.jpeg);
     background-position: center;
     background-size: cover;
+    height: 800px;
 }
-
-.burger {
-    background-color: #0946c8;
-}
-
+ 
 .down {
     text-align: center;
+     color: white;
 }
-.sister {
-    margin-top: 400px;
-    text-align: center;
-    color: white;
-    font-size: 50px;
+ 
+.family {
+color: white;
+font-size: 30px;
+text-align: center;
+margin-top: 80%;
+font-family: "Roboto Slab", serif;
+
 }
 
-.brother {
+.paragraph {
     text-align: center;
     color: white;
     font-size: 16px;
-}
+    font-family: "Roboto", sans-serif;
+    margin-bottom: 10%;  
 
+}
+   
 .blue {
-    margin-top: 60px;
+    margin-top: 50px;
     color:#8ccbea;
     margin-left: 20px;
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-family: "Roboto", sans-serif;
     font-family: 14px;
 }
 
 .window {
     margin-left: 20px;
-    font-family: RobotoSlab;
-    
+    font-family: "Roboto Slab", serif;  
 }
 
 .information {
     margin-left: 20px;
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-family: "Roboto", sans-serif;
     font-size: 18px;
 }
 
@@ -54,9 +57,8 @@
     margin-left: 20px;
     text-align: center;
     font-size: 28px;
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-
-}
+    font-family: "Roboto", sans-serif;
+ }
 
  .ice {
     background-color: rgb(225, 235, 251);
@@ -65,22 +67,37 @@
   .reasons {
     text-align: center;
     padding-top: 30px;
+    font-family: "Roboto Slab", serif;
+}
 
-  }
+.tittle1 {
+    font-family: "Roboto Slab", serif;
+}
+
+.tittle2 {
+    font-family: "Roboto Slab", serif;
+}
+
+.tittle3 {
+    font-family: "Roboto Slab", serif;
+}
 
   .box1 {
    text-align: center;
     margin-top: 30px;
+    font-family: "Roboto", sans-serif;
   }
 
   .box2 {
     text-align: center;
     margin-top: 50px;
+    font-family: "Roboto", sans-serif;
   }
 
   .box3 {
     text-align: center;
     margin-top: 50px;
+    font-family: "Roboto", sans-serif;
   }
 
 .button {
@@ -97,21 +114,14 @@
    width: 50%;
    margin-top: 40px;
    margin-left: 25%;
-   font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+   font-family: "Roboto", sans-serif;
 }
 
 .arrow {
    text-align: center;
    margin-top: 30px;
 }
-
-.push {
-    background-color: white;
-    color: white;
-    border: solid 10px;
-    border-radius: 100px;
-
-}
+ 
  
 .footer {
     background-color: #304268;
@@ -123,19 +133,21 @@
 .complements {
     margin-left: 40px;
     text-align: center;
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-family: "Roboto", sans-serif;
     font-size: 16px;
 }
+
 .social {
     margin-top: 50px;
     text-align: center;
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-family: "Roboto", sans-serif;
     font-size: 16px;
+    color: white;
 }
-
-
+ 
 .love {
     margin-top: 60px;
     text-align: center;
     font-size: 14px;
+    font-family: "Roboto", sans-serif;
 }
